@@ -1,0 +1,6 @@
+require("lucky.core")
+require("lucky.lazy")
+--require("lucky.plugins-setup")
+--require("lucky.core.colorscheme")
+--require("lucky.core")
+require("lucky.core.keymaps")
